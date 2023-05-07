@@ -1,5 +1,4 @@
-# Reducing GPU Memory
-Footprint for Large Language Models Using
+# Reducing GPU Memory Footprint for Large Language Models Using
 Quantisation
 
 ## Course Project for Introduction to GPU Programming
